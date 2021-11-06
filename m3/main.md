@@ -1,6 +1,6 @@
 % Çokkiplilik ve Çokgörevlilik
 % M. Yusuf Sarıgöz
-% 01/06/2021
+% 11/06/2021
 
 
 ## Tekgörevliliğin problemleri
